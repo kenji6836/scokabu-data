@@ -1,0 +1,9 @@
+
+# secrets（api-guard: キーはKeychainに保管、ファイルに書かない）
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.p8
+*.pem
